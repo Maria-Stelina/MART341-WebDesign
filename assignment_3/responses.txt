@@ -1,0 +1,3 @@
+-A DNS translates domain names to their IP addresses, and an IP addresses to their domain names.
+-Cookies are pieces of data created by a website and sends it to a web browser. Cookies lets websites remember you whenever you revisit a particular website.
+-protocal, domain name, path
