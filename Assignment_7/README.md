@@ -1,0 +1,3 @@
+The most common forms I've seen are search bars. Some of the biggests websites like Google and Youtube uses searchbars. When you input a piece of information or question, the search engine gathers data and info that use the words you typed in the search bar from all over the web. Searchbars are very useful for finding information and acquiring knowledge. 
+
+![screenshot](./images/A_7_screenshot.png)
