@@ -1,0 +1,54 @@
+h1 {
+    color: #55583b;
+    font-family: Pacifico;
+    font-size: 80px;
+    letter-spacing: 0.2em;
+}
+
+#subtitle {
+    color: #55583b;
+    font-family: CormorantGaramond;
+    font-size: 28px;
+}
+
+#about {
+    color:#55583b;
+    background-color: #d3d6b8;
+    font-family: NanumGothic-Regular;
+    font-size: 30px;
+}
+
+.content-paragraph {
+    color: #55583b;
+    font-family: NanumGothic-Regular;
+    font-size: 25px;
+    padding: 20px;
+    line-height: 60px;
+}
+
+.phrase, .phrase2 {
+    font-size: 45px;
+    font-family: NanumGothic-Bold;
+}
+
+.phrase2:hover {
+    color: #997774;
+    text-indent: 11em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#about:hover {
+    text-indent: .10em;
+    text-decoration: none;
+}
+
+.info {
+    font-family: NanumGothic-Regular;
+    margin: auto;
+    color: #333;
+    font-size: 20px;
+    line-height: 35px;
+    max-width: 850px;
+    float: left;
+    padding: 20px;
+}
