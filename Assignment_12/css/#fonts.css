@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'CormorantGaramond';
+    src: url('../fonts/CormorantGaramond-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CormorantGaramond-Bold';
+    src: url('../fonts/CormorantGaramond-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'CormorantGaramond-BoldItalic';
+    src: url('../fonts/CormorantGaramond-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'NanumGothic-Regular';
+    src: url('../fonts/NanumGothic-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NanumGothic-Bold';
+    src: url('../fonts/NanumGothic-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Pacifico';
+    src: url('../fonts/Pacifico-Regular.ttf');
+    font-style: normal;
+}
