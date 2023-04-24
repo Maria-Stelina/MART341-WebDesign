@@ -1,0 +1,148 @@
+#title {
+    color: #55583b;
+    font-family: Pacifico;
+    font-size: 80px;
+    letter-spacing: 0.2em;
+}
+
+#subtitle {
+    color: #55583b;
+    font-family: CormorantGaramond;
+    font-size: 28px;
+}
+
+.about, .dropdown {
+    color:#55583b;
+    font-family: NanumGothic-Regular;
+    font-size: 30px;
+}
+
+/*paragraph for body*/
+.content-paragraph {
+    color: #55583b;
+    font-family: NanumGothic-Regular;
+    font-size: 25px;
+    padding: 20px;
+    line-height: 60px;
+}
+
+.phrase, .phrase2 {
+    font-size: 45px;
+    font-family: NanumGothic-Bold;
+}
+
+.phrase2:hover {
+    color: #997774;
+    text-indent: 11em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info {
+    font-family: NanumGothic-Regular;
+    margin: auto;
+    color: #333;
+    font-size: 20px;
+    line-height: 35px;
+    max-width: 850px;
+    float: left;
+    padding: 20px;
+}
+
+/*menu*/
+
+header {
+    position: fixed;
+    top: 0px;
+    background-color: #a8ac7d; 
+    margin-top: 0;
+    height: 4em;
+    width: 95.85%;
+    text-align: right;
+    font-family: Merriweather;
+    padding-right: 3em;
+}
+
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #d3d6b8;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: rgb(68, 68, 26);
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #eea7ab;
+    color: #ffffff;
+}
+
+/* Navbar style*/
+
+.about:hover {
+    background-color: #d3d6b8;
+    color:#ffffff;
+    display: inline-block;
+}
+
+.dropdown:hover {
+    background-color: #d3d6b8;
+    color: #ffffff;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 1.5em -0.01em;
+    color: #000;
+    background-color: #ccadad;
+    min-width: 155px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    position: relative;
+    margin: 0;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: white;
+    background-color: #eea7ab;
+}
+
+.home-intro {
+    font-size: 40px;
+    max-width: 600px;
+    padding-left: 450px;
+    color: #55583b;
+}
+
+.one-line {
+    max-width: 400px;
+
+}
